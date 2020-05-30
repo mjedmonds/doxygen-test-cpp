@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'doxygen-test'
+project = 'doxygen-test-cpp'
 copyright = '2020, Mark Edmonds'
 author = 'Mark Edmonds'
 
