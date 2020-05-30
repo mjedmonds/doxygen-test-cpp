@@ -1,4 +1,3 @@
-_build
-_static
-_templates
-doxyoutput
+docs/_build
+docs/doxyoutput
+docs/cpp_api
